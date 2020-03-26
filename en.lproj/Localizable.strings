@@ -11,4 +11,4 @@
 "UpgradeToVersion" = "Upgrade to v%@ ...";
 "OpenWebsite" = "Open website ...";
 "QuitVidrio" = "Quit Vidrio";
-"BadTranslation" = "Report bad translation ...";
+"ReportBadTranslation" = "Report bad translation ...";
