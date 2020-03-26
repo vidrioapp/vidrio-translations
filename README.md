@@ -10,7 +10,7 @@ or follow the instructions below ...
 
 * Find your [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), e.g. French is `fr`
 * Create a file for this language code, e.g. `fr.lproj/Localizable.strings`
-* Copy the English content from `Base.lproj/Localizable.strings`
+* Copy content from e.g. `es.lproj/Localizable.strings`
 * Translate the text on the right-hand side of the `=`, e.g. `"Resume" = "Reprendre";`
 * Note `%@` is a format string; it represents a word that will be added later
 * Add your name to the contributors below! ✨
