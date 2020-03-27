@@ -21,5 +21,7 @@ The text in the app comes from the `*.lproj/Localizable.strings` files in this r
 
 Thanks to these amazing people for help bringing Vidrio to everyone.
 
-* ✨ Jim Fisher ✨
-* ✨ Sophie L ✨
+* ✨ Jim Fisher ✨ (English translation)
+* ✨ Sophie L ✨ (French translation)
+* ✨ [Damiano Donati](https://github.com/damdo) ✨ (Italian translation)
+* ✨ Google Translate ✨ (all the wrong bits)
