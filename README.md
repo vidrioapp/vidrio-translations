@@ -1,7 +1,7 @@
 # Vidrio translations
 
 The Vidrio app is internationalized.
-To port Vidrio to your language, 
+To port Vidrio to your language,
 [email Jim](mailto:jameshfisher@gmail.com),
 or follow the instructions below ...
 
@@ -23,5 +23,6 @@ Thanks to these amazing people for help bringing Vidrio to everyone.
 
 * ✨ Jim Fisher ✨ (English translation)
 * ✨ Sophie L ✨ (French translation)
+* ✨ [Clemens Lange]((https://github.com/clelange)) ✨ (German translation)
 * ✨ [Damiano Donati](https://github.com/damdo) ✨ (Italian translation)
 * ✨ Google Translate ✨ (all the wrong bits)
