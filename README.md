@@ -25,4 +25,5 @@ Thanks to these amazing people for help bringing Vidrio to everyone.
 * ✨ Sophie L ✨ (French translation)
 * ✨ [Clemens Lange]((https://github.com/clelange)) ✨ (German translation)
 * ✨ [Damiano Donati](https://github.com/damdo) ✨ (Italian translation)
+* ✨ [Anya Zenkina]((https://github.com/annzenkina)) ✨ (Russian translation)
 * ✨ Google Translate ✨ (all the wrong bits)
