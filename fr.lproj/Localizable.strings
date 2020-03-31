@@ -7,7 +7,7 @@
 "You're a wizard, Harry!" = "Tu es un sorcier, Harry!";
 " (latest)" = " (dernière)";
 " (latest: v%@)" = " (dernière: v%@)";
-"Upgrade to v%@ ..." = "Mise à niveau vers v%@ ...";
+"Update to v%@ ..." = "Mise à niveau vers v%@ ...";
 "Open website ..." = "Ouvrir le site ...";
 "Quit Vidrio" = "Quitter Vidrio";
 "Help translate ..." = "Aider à traduire ...";

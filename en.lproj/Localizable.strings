@@ -8,7 +8,7 @@
 "You're a wizard, Harry!" = "You're a wizard, Harry!";
 " (latest)" = " (latest)";
 " (latest: v%@)" = " (latest: v%@)";
-"Upgrade to v%@ ..." = "Upgrade to v%@ ...";
+"Update to v%@ ..." = "Update to v%@ ...";
 "Open website ..." = "Open website ...";
 "Quit Vidrio" = "Quit Vidrio";
 "Help translate ..." = "Help translate ...";

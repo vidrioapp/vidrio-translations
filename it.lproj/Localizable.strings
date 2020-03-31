@@ -8,7 +8,7 @@
 "Running v%@" = "Eseguendo la v%@";
 " (latest)" = " (ultima)";
 " (latest: v%@)" = " (ultima: v%@)";
-"Upgrade to v%@ ..." = "Aggiorna alla v%@ ...";
+"Update to v%@ ..." = "Aggiorna alla v%@ ...";
 "Open website ..." = "Apri sito web ...";
 "Quit Vidrio" = "Esci da Vidrio";
 "Help translate ..." = "Aiuta a tradurre ...";
