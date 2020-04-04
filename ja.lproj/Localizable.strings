@@ -1,1 +1,14 @@
+"Reset opacity" = "透明度をリセット";
+"Pause" = "一時停止";
+"Resume" = "再開";
+"Switch webcam" = "カメラ切り替え";
+"Watermark" = "透かし";
+"Plan: %@" = "プラン: %@";
+"Upgrade plan ..." = "プランをアップグレード...";
+"You're a wizard, Harry!" = "君は魔法使いだ、ハリー!";
+" (latest)" = " (最新)";
+" (latest: v%@)" = " (最新: v%@)";
+"Update to v%@ ..." = "v%@にアップデート...";
+"Open website ..." = "ウェブサイトを開く...";
+"Quit Vidrio" = "Vidrioを終了";
 "Help translate ..." = "翻訳を助けて...";
