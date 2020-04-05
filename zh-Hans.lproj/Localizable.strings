@@ -1,1 +1,14 @@
-"Help translate ..." = "帮助翻译...";
+"Reset opacity" = "重置不透明度";
+"Pause" = "暂停";
+"Resume" = "恢复";
+"Switch webcam" = "切换网络摄像头";
+"Watermark" = "水印";
+"Plan: %@" = " 计划：%@";
+"Upgrade plan ..." = "升级计划...";
+"You're a wizard, Harry!" = "你是个巫，哈利！"
+"(latest)" = "(最新)";
+"(latest: v%@)" = "(最新：版本%@)";
+"Update to v%@ ..." = "更新至版本%@ ...";
+"Open website ..." = "开放网站...";
+"Quit Vidrio" = "退出Vidrio";
+"Help translation ..." = "帮助翻译...";
