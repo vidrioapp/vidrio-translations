@@ -29,4 +29,5 @@ Thanks to these amazing people for help bringing Vidrio to everyone.
 * ✨ [HIBIKI-CUBE](https://github.com/HIBIKI-CUBE) ✨ (Japanese translation)
 * ✨ [swiknaba](https://github.com/swiknaba) ✨ (Chinese translation)
 * ✨ [Luís Fonseca](https://github.com/luismfonseca) ✨ (Portuguese translations)
+* ✨ [elmaco1979](https://github.com/elmaco1979) ✨ (Spanish translation)
 * ✨ Google Translate ✨ (all the wrong bits)
