@@ -2,6 +2,7 @@
 "Pause" = "一時停止";
 "Resume" = "再開";
 "Switch webcam" = "カメラ切り替え";
+/* "Switch display" = "Switch display"; */
 "Watermark" = "透かし";
 "Plan: %@" = "プラン: %@";
 "Upgrade plan ..." = "プランをアップグレード...";
