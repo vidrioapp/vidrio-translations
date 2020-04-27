@@ -2,7 +2,7 @@
 "Pause" = "Suspender";
 "Resume" = "Resumir";
 "Switch webcam" = "Trocar webcam";
-/* "Switch display" = "Switch display"; */
+"Switch display" = "Trocar monitor"; /* guess */
 "Watermark" = "Marca de água";
 "Plan: %@" = "Plano: %@";
 "Upgrade plan ..." = "Mudar de plano ...";

@@ -2,7 +2,7 @@
 "Pause" = "Mettre en pause";
 "Resume" = "Reprendre";
 "Switch webcam" = "Changer de webcam";
-/* "Switch display" = "Switch display"; */
+"Switch display" = "Changer de moniteur"; /* guess */
 "Plan: %@" = "Plan: %@";
 "Upgrade plan ..." = "Améliorer votre plan ...";
 "You're a wizard, Harry!" = "Tu es un sorcier, Harry!";

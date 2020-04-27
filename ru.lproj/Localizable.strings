@@ -2,7 +2,7 @@
 "Pause" = "Пауза";
 "Resume" = "Продолжить";
 "Switch webcam" = "Переключить камеру";
-/* "Switch display" = "Switch display"; */
+"Switch display" = "Переключить монитор"; /* guess */
 "Watermark" = "Водяной знак";
 "Plan: %@" = "Тариф: %@";
 "Upgrade plan ..." = "Обновить тариф ...";
