@@ -2,6 +2,7 @@
 "Pause" = "Anhalten";
 "Resume" = "Fortsetzen";
 "Switch webcam" = "Webcam wechseln";
+/* "Switch screen" = "Switch screen"; */
 "Watermark" = "Wasserzeichen";
 "Plan: %@" = "Plan: %@";
 "Upgrade plan ..." = "Plan erweitern ...";

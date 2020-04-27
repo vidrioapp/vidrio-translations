@@ -2,6 +2,7 @@
 "Pause" = "暂停";
 "Resume" = "恢复";
 "Switch webcam" = "切换网络摄像头";
+/* "Switch screen" = "Switch screen"; */
 "Watermark" = "水印";
 "Plan: %@" = " 计划：%@";
 "Upgrade plan ..." = "升级计划...";
