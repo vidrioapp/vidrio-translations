@@ -31,4 +31,5 @@ Thanks to these amazing people for help bringing Vidrio to everyone.
 * ✨ [Luís Fonseca](https://github.com/luismfonseca) ✨ (Portuguese translations)
 * ✨ [elmaco1979](https://github.com/elmaco1979) ✨ (Spanish translation)
 * ✨ [Rizo I](https://github.com/rizo) ✨ (Ukrainian translation)
+* ✨ Torkel Spindler ✨ (Swedish translation)
 * ✨ Google Translate ✨ (all the wrong bits)
