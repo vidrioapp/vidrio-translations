@@ -2,7 +2,7 @@
 "Pause" = "Mettre en pause";
 "Resume" = "Reprendre";
 "Switch webcam" = "Changer de webcam";
-"Switch display" = "Changer de moniteur"; /* guess */
+"Switch display" = "Changer de moniteur";
 "Plan: %@" = "Plan: %@";
 "Upgrade plan ..." = "Améliorer votre plan ...";
 "You're a wizard, Harry!" = "Tu es un sorcier, Harry!";
@@ -12,3 +12,9 @@
 "Open website ..." = "Ouvrir le site ...";
 "Quit Vidrio" = "Quitter Vidrio";
 "Help translate ..." = "Aider à traduire ...";
+/* TODO: "Vidrio is running." = "Vidrio is running."; */
+/* TODO: "Welcome to your holographic display." = "Welcome to your holographic display."; */
+/* TODO: "For controls, check the menu in the top right." = "For controls, check the menu in the top right."; */
+/* TODO: "Next, share your screen." = "Next, share your screen."; */
+/* TODO: "Use your usual screen-sharing software." = "Use your usual screen-sharing software."; */
+/* TODO: "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps."; */
