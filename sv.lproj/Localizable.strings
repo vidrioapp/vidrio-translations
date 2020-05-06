@@ -13,9 +13,9 @@
 "Open website ..." = "Öppna webbsida...";
 "Quit Vidrio" = "Avsluta Vidrio";
 "Help translate ..." = "Hjälp med översättning...";
-/* TODO: "Vidrio is running." = "Vidrio är igång."; */
-/* TODO: "Welcome to your holographic display." = "Välkommen till din holografiska skärm."; */
+"Vidrio is running." = "Vidrio är igång.";
+"Welcome to your holographic display." = "Välkommen till din holografiska skärm.";
 /* TODO: "For controls, check the menu in the top right." = "For controls, check the menu in the top right."; */
-/* TODO: "Next, share your screen." = "Nu så, dela din skärm."; */
-/* TODO: "Use your usual screen-sharing software." = "Använd ditt vanliga program för skärmdelning."; */
-/* TODO: "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio fungerar med Zoom, Skype, Teams, Hangouts, QuickTime och andra program för skärmdelning och skärminspelning."; */
+"Next, share your screen." = "Nu så, dela din skärm.";
+"Use your usual screen-sharing software." = "Använd ditt vanliga program för skärmdelning.";
+"Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio fungerar med Zoom, Skype, Teams, Hangouts, QuickTime och andra program för skärmdelning och skärminspelning.";
