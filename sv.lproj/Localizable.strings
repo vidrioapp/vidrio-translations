@@ -1,6 +1,6 @@
 "Reset opacity" = "Återställ transparens";
 "Pause" = "Pausa";
-"Resume" = "Återgå";
+"Resume" = "Fortsätt";
 "Switch webcam" = "Växla kamera";
 "Switch display" = "Växla skärm";
 "Watermark" = "Vattenstämpel";
@@ -15,7 +15,7 @@
 "Help translate ..." = "Hjälp med översättning...";
 "Vidrio is running." = "Vidrio är igång.";
 "Welcome to your holographic display." = "Välkommen till din holografiska skärm.";
-/* TODO: "For controls, check the menu in the top right." = "For controls, check the menu in the top right."; */
+"For controls, check the menu in the top right." = "Justera inställningar via statusmenyn till höger i menyraden.";
 "Next, share your screen." = "Nu så, dela din skärm.";
 "Use your usual screen-sharing software." = "Använd ditt vanliga program för skärmdelning.";
-"Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio fungerar med Zoom, Skype, Teams, Hangouts, QuickTime och andra program för skärmdelning och skärminspelning.";
+"Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio kan användas med Zoom, Skype, Teams, Hangouts, QuickTime och andra program för skärmdelning och skärminspelning.";
