@@ -13,10 +13,10 @@
 "Update to v%@ ..." = "Обновить до v%@ ...";
 "Open website ..." = "Открыть сайт...";
 "Quit Vidrio" = "Закрыть Vidrio";
-"Help translate ..." = "Помогите перевести ...";
-/* TODO: "Vidrio is running." = "Vidrio is running."; */
-/* TODO: "Welcome to your holographic display." = "Welcome to your holographic display."; */
-/* TODO: "For controls, check the menu in the top right." = "For controls, check the menu in the top right."; */
-/* TODO: "Next, share your screen." = "Next, share your screen."; */
-/* TODO: "Use your usual screen-sharing software." = "Use your usual screen-sharing software."; */
-/* TODO: "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps."; */
+"Help translate ..." = "Помочь перевести ...";
+"Vidrio is running." = "Vidrio работает.";
+"Welcome to your holographic display." = "Добро пожаловать на ваш голографический дисплей."
+"For controls, check the menu in the top right." = "Для управления, проверьте меню в правом верхнем.";
+"Next, share your screen." = "Затем, поделитесь своим экраном.";
+"Use your usual screen-sharing software." = "Используйте свое обычное ПО для совместного использования экрана.";
+"Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio работает с Zoom, Skype, Teams, Hangouts, QuickTime и любыми другими приложениями для совместного использования экрана или записи экрана.";
