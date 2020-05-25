@@ -18,4 +18,5 @@
 "For controls, check the menu in the top right." = "Nastavitve se nahajajo v meniju zgoraj-desno.";
 "Next, share your screen." = "Za nadaljevanje, deli svoj zaslon.";
 "Use your usual screen-sharing software." = "Uporabi svoj privzet program za deljenje zaslona.";
+/* TODO: "Share your entire desktop. Vidrio does not work if you share a single window." = "Share your entire desktop. Vidrio does not work if you share a single window."; */
 "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio deluje z Zoom, Skype, Teams, Hangouts, QuickTime, in vso preostalo programsko opremo za deljenje zaslona.";

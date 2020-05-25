@@ -18,4 +18,5 @@
 "For controls, check the menu in the top right." = "Kontroller için sağ üst menüye bakın.";
 "Next, share your screen." = "Sonra, ekranınızı paylaşın.";
 "Use your usual screen-sharing software." = "Her zamanki ekran paylaşım yazılımınızı kullanın.";
+/* TODO: "Share your entire desktop. Vidrio does not work if you share a single window." = "Share your entire desktop. Vidrio does not work if you share a single window."; */
 "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio Zoom, Skype, Teams, Hangouts, QuickTime, ve diğer ekran paylaşımı ve kayıt programlarıyla çalışır.";
