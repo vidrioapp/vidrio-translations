@@ -1,3 +1,4 @@
+/* Menubar */
 "Reset opacity" = "Réinitialiser l'opacité";
 "Pause" = "Mettre en pause";
 "Resume" = "Reprendre";
@@ -10,8 +11,11 @@
 " (latest: v%@)" = " (dernière: v%@)";
 "Update to v%@ ..." = "Mise à niveau vers v%@ ...";
 "Open website ..." = "Ouvrir le site ...";
+"Preferences ..." = "Préférences ...";
 "Quit Vidrio" = "Quitter Vidrio";
 "Help translate ..." = "Aider à traduire ...";
+
+/* Onboarding window */
 /* TODO: "Vidrio is running." = "Vidrio is running."; */
 /* TODO: "Welcome to your holographic display." = "Welcome to your holographic display."; */
 /* TODO: "For controls, check the menu in the top right." = "For controls, check the menu in the top right."; */
@@ -19,3 +23,13 @@
 /* TODO: "Use your usual screen-sharing software." = "Use your usual screen-sharing software."; */
 /* TODO: "Share your entire desktop. Vidrio does not work if you share a single window." = "Share your entire desktop. Vidrio does not work if you share a single window."; */
 /* TODO: "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps."; */
+
+/* Preferences window */
+"Preferences" = "Préférences";
+"Keyboard shortcuts" = "Raccourcis clavier";
+"Pause/Resume" = "Mettre en pause / Reprendre";
+"No webcam opacity" = "Pas d'opacité webcam";
+"Decrease webcam opacity" = "Diminue l'opacité de la webcam";
+"Reset webcam opacity" = "Réinitialiser l'opacité de la webcam";
+"Increase webcam opacity" = "Augmentez l'opacité de la webcam";
+"Full webcam opacity" = "Opacité totale de la webcam";
