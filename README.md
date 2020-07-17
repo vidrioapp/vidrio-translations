@@ -37,4 +37,5 @@ Thanks to these amazing people for help bringing Vidrio to everyone.
 * ✨ [Luka Bratos](https://github.com/lukabratos) ✨ (Slovenian translation)
 * ✨ [Doğan Aydın](https://github.com/dgnydn) ✨ (Turkish translation)
 * ✨ [Aris Ripandi](https://github.com/riipandi) ✨ (Indonesian translation)
+* ✨ [SmittyDidIT](https://github.com/SmittyDidIT) ✨ (Dutch translation)
 * ✨ Google Translate ✨ (all the wrong bits)
