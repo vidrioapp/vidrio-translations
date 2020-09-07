@@ -1,6 +1,7 @@
 "Reset opacity" = "Återställ transparens";
 "Pause" = "Pausa";
 "Resume" = "Fortsätt";
+/* TODO: "Remove background" = "Remove background"; */
 "Switch webcam" = "Växla kamera";
 "Switch display" = "Växla skärm";
 "Watermark" = "Vattenstämpel";

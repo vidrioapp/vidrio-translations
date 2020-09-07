@@ -1,6 +1,7 @@
 "Reset opacity" = "Reimposta opacità";
 "Pause" = "Pausa";
 "Resume" = "Riprendi";
+/* TODO: "Remove background" = "Remove background"; */
 "Switch webcam" = "Cambia webcam";
 "Switch display" = "Cambia monitor"; /* guess */
 "Plan: %@" = "Piano: %@";

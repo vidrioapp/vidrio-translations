@@ -2,6 +2,7 @@
 "Reset opacity" = "透明度をリセット";
 "Pause" = "一時停止";
 "Resume" = "再開";
+/* TODO: "Remove background" = "Remove background"; */
 "Switch webcam" = "カメラ切り替え";
 "Switch display" = "ディスプレイ切り替え";
 "Watermark" = "透かし";

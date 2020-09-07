@@ -4,6 +4,7 @@
 "Switch webcam" = "Webcam wechseln";
 "Switch display" = "Monitor wechseln"; /* guess */
 "Watermark" = "Wasserzeichen";
+/* TODO: "Remove background" = "Remove background"; */
 "Plan: %@" = "Plan: %@";
 "Upgrade plan ..." = "Plan erweitern ...";
 "You're a wizard, Harry!" = "Du bist ein Zauberer, Harry!";

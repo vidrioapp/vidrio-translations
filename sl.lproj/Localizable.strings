@@ -1,6 +1,7 @@
 "Reset opacity" = "Ponastavi transparentnost";
 "Pause" = "Premor";
 "Resume" = "Nadaljuj";
+/* TODO: "Remove background" = "Remove background"; */
 "Switch webcam" = "Zamenjaj kamero";
 "Switch display" = "Zamenjaj zaslon";
 "Watermark" = "Označba";

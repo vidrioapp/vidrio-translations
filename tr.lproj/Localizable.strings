@@ -1,6 +1,7 @@
 "Reset opacity" = "Şeffaflığı sıfırla";
 "Pause" = "Duraklat";
 "Resume" = "Devam et";
+/* TODO: "Remove background" = "Remove background"; */
 "Switch webcam" = "Kamera değiştir";
 "Switch display" = "Ekran değiştir";
 "Watermark" = "Filigran";

@@ -1,6 +1,7 @@
 "Reset opacity" = "Repor opacidade";
 "Pause" = "Suspender";
 "Resume" = "Resumir";
+/* TODO: "Remove background" = "Remove background"; */
 "Switch webcam" = "Trocar webcam";
 "Switch display" = "Trocar monitor"; /* guess */
 "Watermark" = "Marca de água";

@@ -1,6 +1,7 @@
 "Reset opacity" = "Сбросить непрозрачность";
 "Pause" = "Пауза";
 "Resume" = "Продолжить";
+/* TODO: "Remove background" = "Remove background"; */
 "Switch webcam" = "Переключить камеру";
 "Switch display" = "Переключить монитор"; /* guess */
 "Watermark" = "Водяной знак";
