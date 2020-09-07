@@ -1,22 +1,37 @@
+/* Menubar */
 "Reset opacity" = "透明度をリセット";
 "Pause" = "一時停止";
 "Resume" = "再開";
 "Switch webcam" = "カメラ切り替え";
-/* "Switch display" = "Switch display"; */
+"Switch display" = "ディスプレイ切り替え";
 "Watermark" = "透かし";
 "Plan: %@" = "プラン: %@";
-"Upgrade plan ..." = "プランをアップグレード...";
+"Upgrade plan ..." = "プランをアップグレード";
 "You're a wizard, Harry!" = "君は魔法使いだ、ハリー!";
 " (latest)" = " (最新)";
 " (latest: v%@)" = " (最新: v%@)";
-"Update to v%@ ..." = "v%@にアップデート...";
-"Open website ..." = "ウェブサイトを開く...";
+"Update to v%@ ..." = "v%@にアップデート";
+"Open website ..." = "ウェブサイトを開く";
+"Preferences ..." = "設定";
 "Quit Vidrio" = "Vidrioを終了";
-"Help translate ..." = "翻訳を助けて...";
-/* TODO: "Vidrio is running." = "Vidrio is running."; */
-/* TODO: "Welcome to your holographic display." = "Welcome to your holographic display."; */
-/* TODO: "For controls, check the menu in the top right." = "For controls, check the menu in the top right."; */
-/* TODO: "Next, share your screen." = "Next, share your screen."; */
-/* TODO: "Use your usual screen-sharing software." = "Use your usual screen-sharing software."; */
-/* TODO: "Share your entire desktop. Vidrio does not work if you share a single window." = "Share your entire desktop. Vidrio does not work if you share a single window."; */
-/* TODO: "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps."; */
+"Provide feedback ..." = "フィードバックを送る";
+"Help translate ..." = "翻訳に協力する";
+
+/* Onboarding window */
+"Vidrio is running." = "Vidrioは実行中です。";
+"Welcome to your holographic display." = "あなたのホログラムディスプレイへようこそ";
+"For controls, check the menu in the top right." = "コントロールは、メニューバーの右側にあります。";
+"Next, share your screen." = "次に、あなたの画面を共有しましょう。";
+"Use your usual screen-sharing software." = "普段使っている画面共有ソフトを使ってください。";
+"Share your entire desktop. Vidrio does not work if you share a single window." = "画面全体を共有してください。ウィンドウだけを共有するとVidrioは機能しません。";
+"Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "VidrioはZoom、Skype、Teams、ハングアウト、LINE、QuickTimeとその他の画面共有アプリ、画面録画アプリで使うことができます。";
+
+/* Preferences window */
+"Preferences" = "設定";
+"Keyboard shortcuts" = "キーボードショートカット";
+"Pause/Resume" = "一時停止/再開";
+"No webcam opacity" = "カメラ映像を透明にする";
+"Decrease webcam opacity" = "カメラ映像の透明度を下げる";
+"Reset webcam opacity" = "カメラ映像の透明度をリセット";
+"Increase webcam opacity" = "カメラ映像の透明度を上げる";
+"Full webcam opacity" = "カメラ映像を不透明にする";
