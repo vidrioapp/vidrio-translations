@@ -1,9 +1,10 @@
+/* Menubar */
 "Reset opacity" = "Återställ transparens";
 "Pause" = "Pausa";
 "Resume" = "Fortsätt";
-"Remove background" = "Ta bort bakgrund";
 "Switch webcam" = "Växla kamera";
 "Switch display" = "Växla skärm";
+"Remove background" = "Ta bort bakgrund";
 "Watermark" = "Vattenstämpel";
 "Plan: %@" = "Licens: %@";
 "Upgrade plan ..." = "Uppgradera licens...";
@@ -12,8 +13,12 @@
 " (latest: v%@)" = " (senaste: v%@)";
 "Update to v%@ ..." = "Uppdatera till v%@...";
 "Open website ..." = "Öppna webbsida...";
+/* TODO: "Preferences ..." = "Preferences ..."; */
 "Quit Vidrio" = "Avsluta Vidrio";
+/* TODO: "Provide feedback ..." = "Provide feedback ..."; */
 "Help translate ..." = "Hjälp med översättning...";
+
+/* Onboarding window */
 "Vidrio is running." = "Vidrio är igång.";
 "Welcome to your holographic display." = "Välkommen till din holografiska skärm.";
 "For controls, check the menu in the top right." = "Justera inställningar via statusmenyn till höger i menyraden.";
@@ -21,3 +26,13 @@
 "Use your usual screen-sharing software." = "Använd ditt vanliga program för skärmdelning.";
 "Share your entire desktop. Vidrio does not work if you share a single window." = "Dela hela ditt skrivbord. Vidrio fungerar inte om du delar ett enstaka fönster.";
 "Vidrio works with Zoom, Skype, Teams, Hangouts, QuickTime, and any other screen-sharing or screen-recording apps." = "Vidrio kan användas med Zoom, Skype, Teams, Hangouts, QuickTime och andra program för skärmdelning och skärminspelning.";
+
+/* Preferences window */
+/* TODO: "Preferences" = "Preferences"; */
+/* TODO: "Keyboard shortcuts" = "Keyboard shortcuts"; */
+/* TODO: "Pause/Resume" = "Pause/Resume"; */
+/* TODO: "No webcam opacity" = "No webcam opacity"; */
+/* TODO: "Decrease webcam opacity" = "Decrease webcam opacity"; */
+/* TODO: "Reset webcam opacity" = "Reset webcam opacity"; */
+/* TODO: "Increase webcam opacity" = "Increase webcam opacity"; */
+/* TODO: "Full webcam opacity" = "Full webcam opacity"; */
