@@ -5,6 +5,7 @@
 "Remove background" = "Supprimer l'arrière-plan";
 "Switch webcam" = "Changer de webcam";
 "Switch display" = "Changer de moniteur";
+"Watermark" = "Filigrane";
 "Plan: %@" = "Plan: %@";
 "Upgrade plan ..." = "Améliorer votre plan ...";
 "You're a wizard, Harry!" = "Tu es un sorcier, Harry!";
@@ -14,6 +15,7 @@
 "Open website ..." = "Ouvrir le site ...";
 "Preferences ..." = "Préférences ...";
 "Quit Vidrio" = "Quitter Vidrio";
+"Provide feedback ..." = "Fournir une réponse ...";
 "Help translate ..." = "Aider à traduire ...";
 
 /* Onboarding window */
