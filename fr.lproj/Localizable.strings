@@ -2,7 +2,7 @@
 "Reset opacity" = "Réinitialiser l'opacité";
 "Pause" = "Mettre en pause";
 "Resume" = "Reprendre";
-/* TODO: "Remove background" = "Remove background"; */
+"Remove background" = "Supprimer l'arrière-plan";
 "Switch webcam" = "Changer de webcam";
 "Switch display" = "Changer de moniteur";
 "Plan: %@" = "Plan: %@";
