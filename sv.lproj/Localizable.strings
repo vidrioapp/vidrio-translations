@@ -32,7 +32,7 @@
 "Keyboard shortcuts" = "Kortkommandon";
 "Pause/Resume" = "Pausa/Fortsätt";
 "No webcam opacity" = "Ingen genomskinlighet";
-"Decrease webcam opacity" = "Minska genomskinligheten";
-"Reset webcam opacity" = "Återställ genomskinligheten";
-"Increase webcam opacity" = "Öka genomskinligheten";
-"Full webcam opacity" = "Full genomskinlighet";
+"Decrease webcam opacity" = "Minska transparensen";
+"Reset webcam opacity" = "Återställ transparensen";
+"Increase webcam opacity" = "Öka transparensen";
+"Full webcam opacity" = "Full transparens";
