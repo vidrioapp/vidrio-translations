@@ -2,7 +2,7 @@
 "Pause" = "暂停";
 "Resume" = "恢复";
 "Switch webcam" = "切换网络摄像头";
-/* "Switch display" = "切换 显示(器)"; */
+"Switch display" = "切换 显示(器)";
 "Watermark" = "水印";
 "Plan: %@" = " 计划：%@";
 "Upgrade plan ..." = "升级计划...";
@@ -13,7 +13,7 @@
 "Open website ..." = "开放网站...";
 "Quit Vidrio" = "退出Vidrio";
 "Help translate ..." = "帮助翻译...";
-/* TODO: "Vidrio is running." = "Vidrio 正在运行."; */
+"Vidrio is running." = "Vidrio 正在运行.";
 /* TODO: "Welcome to your holographic display." = "Welcome to your holographic display."; */
 /* TODO: "For controls, check the menu in the top right." = "For controls, check the menu in the top right."; */
 /* TODO: "Next, share your screen." = "Next, share your screen."; */
