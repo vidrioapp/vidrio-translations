@@ -8,6 +8,8 @@
 "Watermark" = "Watermark";
 "Plan: %@" = "Plan: %@";
 "Upgrade plan ..." = "Upgrade plan ...";
+"Next bill on %@" = "Next bill on %@";
+"Restore purchases ..." = "Restore purchases ...";
 "You're a wizard, Harry!" = "You're a wizard, Harry!";
 " (latest)" = " (latest)";
 " (latest: v%@)" = " (latest: v%@)";
