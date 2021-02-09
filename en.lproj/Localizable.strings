@@ -7,7 +7,8 @@
 "Remove background" = "Remove background";
 "Watermark" = "Watermark";
 "Plan: %@" = "Plan: %@";
-"Upgrade plan ..." = "Upgrade plan ...";
+"Get Vidrio Pro ..." = "Get Vidrio Pro ...";
+"Get %@ (%@/month) ..." = "Get %@ (%@/month) ...";
 "Next bill on %@" = "Next bill on %@";
 "Restore purchases ..." = "Restore purchases ...";
 "You're a wizard, Harry!" = "You're a wizard, Harry!";
@@ -15,6 +16,8 @@
 " (latest: v%@)" = " (latest: v%@)";
 "Update to v%@ ..." = "Update to v%@ ...";
 "Open website ..." = "Open website ...";
+"Privacy policy ..." = "Privacy policy ...";
+"Terms of use ..." = "Terms of use ...";
 "Preferences ..." = "Preferences ...";
 "Quit Vidrio" = "Quit Vidrio";
 "Provide feedback ..." = "Provide feedback ...";
